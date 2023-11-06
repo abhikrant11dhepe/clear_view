@@ -1,4 +1,4 @@
-# Indian Institute of Information Technology
+# Indian Institute of Information Technology, Pune.
 ## B-Tech Project - Haze Image Classification and Enhancement
 ### Team Members:
 * Anuja Kamble
